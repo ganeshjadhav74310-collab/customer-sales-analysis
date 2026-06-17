@@ -1,0 +1,7 @@
+,Age,Quantity,UnitPrice,DiscountPercent,TotalSales,CustomerSatisfaction
+Age,1.0,0.02,-0.0,-0.01,0.01,-0.01
+Quantity,0.02,1.0,-0.0,-0.03,0.28,0.03
+UnitPrice,-0.0,-0.0,1.0,-0.03,0.82,0.02
+DiscountPercent,-0.01,-0.03,-0.03,1.0,-0.07,-0.07
+TotalSales,0.01,0.28,0.82,-0.07,1.0,0.01
+CustomerSatisfaction,-0.01,0.03,0.02,-0.07,0.01,1.0
