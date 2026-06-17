@@ -1,6 +1,6 @@
 # Customer / Sales Data Analysis using Python
 
-**Key Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statistics
+**Key Skills:** Python, Pandas, NumPy, Matplotlib, Seaborn, Statistics Data Analysis, Data Visualization, Exploratory Data Analysis (EDA)
 
 A complete, reproducible data analysis project on a retail sales dataset.
 It covers data generation/loading, cleaning, descriptive statistics,
@@ -75,14 +75,17 @@ between each step.
 - Findings are written up in `summary_report.md` with all figures pulled
   directly from the computed output (no hand-typed numbers)
 
+## 🚀 Project Outcome
+
+  This project demonstrates an end-to-end data analytics workflow including data generation, exploratory data analysis, visualization, and automated reporting. It helps in understanding real-world retail patterns and decision-making insights.
+
 ## Key Findings (see `summary_report.md` for full detail)
 
-- Electronics drives the large majority of revenue despite a mid-tier
-  share of order volume — average ticket size matters more than basket size.
-- Revenue peaks sharply in the Oct–Dec festive season.
-- North and West are the strongest regions; East is comparatively under-penetrated.
-- UPI is the most common payment method.
-- Discount depth shows no meaningful positive correlation with customer satisfaction.
+- Electronics drives majority of revenue despite lower order volume
+- Strong seasonal spike in Oct–Dec (festive season effect)
+- North and West regions perform best in sales
+- UPI is the most preferred payment method
+- Discount percentage has weak correlation with customer satisfaction
 
 ---
 *Note: this dataset is synthetically generated for demonstration purposes.
